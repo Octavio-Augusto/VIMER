@@ -1,25 +1,20 @@
-# C-C
 ************************************************************
 VOLUME INTEGRAL MODEL OF THE ELECTRIC RESPONSE (VIMER)
 ************************************************************
 By:
 Hector Octavio Augusto Hernandez Contreras
 
-Thank you for downloading VIMER.
+Welcome.
 
-Version 1.2.3
-
-This code is part of the submited paper:
+This code is part of the study:
 Development of easy software to compute electrical resistivity tomography response, in the case of
 regular bodies immersed in a homogeneous half-space; synthetic and study cases.
 Authors:
 M.S. Hector Octavio Augusto Hernandez Contreras & Ph.D. Elsa Leticia Flores Márquez
 
-=================================================================================================
 This is an open source code for people who wants to understand the behavior and electric response 
 of one or more bodies of simple geometry immersed in a half-space. Feel free to use it, modify it
 and contribute.
-=================================================================================================
 
 Developed in Matlab R2016a. Open the sricpt VIMER.m inside Matlab and run the code. The sript will
 load all the necessary subroutines it needs. Just type the values of the bodies and characteristics
