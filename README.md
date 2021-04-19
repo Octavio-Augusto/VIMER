@@ -21,7 +21,7 @@ of one or more bodies of simple geometry immersed in a half-space. Feel free to 
 and contribute.
 =================================================================================================
 
-Developed in Matlab R2016a. Open the sricpt VIMER.m inside Matlab and run the code. The sript will
+Developed in Matlab R2016a. Open the sricpt VIMER_UI.m inside Matlab and run the code. The sript will
 load all the necessary subroutines it needs. Just type the values of the bodies and characteristics
 of the half-space in the corresponding windows. The user's guide, included in the zip file, explains
 how to input the data. The results are displayed as a figure in a Matlab window.
